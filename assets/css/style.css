@@ -1,8 +1,8 @@
 /* Kusina ni Nanay: modern minimalist, in a warm food palette.
    Honey yellow, cream, and deep chocolate brown. White space, one typeface, hairline lines, no shadows. */
 :root {
-  --paper: #fdf3e7;       /* page background: cream */
-  --white: #fffaf3;       /* inputs and surfaces */
+  --paper: #ffffff;       /* page background: white */
+  --white: #ffffff;       /* inputs and surfaces */
   --ink: #3a1a0c;         /* text: very dark brown */
   --quiet: #7a5a48;       /* secondary text */
   --line: #ecd9c4;        /* hairline borders */
